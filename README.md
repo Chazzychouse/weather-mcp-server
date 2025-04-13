@@ -6,7 +6,7 @@
 
 - Navigate to Claude desktop's AppData, and create a `claude_desktop_config.json` if it is not present.
 
-  - Windows Path: `C:/users/<Username>/AppData/Roaming/Claude`
+  Windows Path: `C:/users/<Username>/AppData/Roaming/Claude`
 
   ```json
   {
@@ -21,7 +21,7 @@
 
 ## Troubleshooting
 
-- See MCP documentation for tips on troubleshooting: `https://modelcontextprotocol.io/docs/tools/debugging`
+- See [MCP documentation](https://modelcontextprotocol.io/docs/tools/debugging) for tips on troubleshooting
 
 ## Capabilities
 
